@@ -7,3 +7,5 @@ Meu nome é Fellipe Laufer
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetoscdesenvolvidos
 
 ### Você pode entrar em contato comigo 📫
+
+fellipe.amaral@escola.pr.gov.br
